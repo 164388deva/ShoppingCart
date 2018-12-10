@@ -1,0 +1,98 @@
+@CHARSET "ISO-8859-1";
+
+body{
+margin:0;
+padding:0;
+font-family:Verdana,Geneva,sans-serif;
+font-size:15px;
+background-color: "#ffffff";
+}
+header{
+height:100px;
+width:100%;
+}
+.logo{
+float:left;
+margin-left:10%;
+font-size:30px;
+font-style:italic;
+font-weight:bold;
+}
+.menu{
+float:right;
+font-size:20px;
+margin-right:10%;
+}
+a:link {
+    color: green; 
+   
+    text-decoration: none;
+}
+a:active {
+    color: green;
+    background-color: transparent;
+    text-decoration: underline;
+}
+.image{
+margin-top:100px;
+  margin-left: 40px;
+ margin-bottom:100px;
+  margin-bottom:200px;
+ 
+}
+.footer {
+    
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:gray;
+    color: black;
+    text-align: center;
+column-gap: 80px;
+}
+.footer1{
+margin-left:100px;
+ column-gap: 80px;
+
+}
+.fashion{
+	border-collapse:collapse;
+	float:center;
+	background-color:
+	align:center;
+	margin:auto;
+	width:50%;
+}
+.footer {
+    
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:gray;
+    color: black;
+    text-align: center;
+	column-gap: 80px;
+}
+.footer1{
+margin-left:100px;
+ column-gap: 80px;
+
+}
+.headimage{
+ background-color:white;
+height:100px;
+}
+.tabledesign
+{
+ background-color: #42C2F4; 
+}
+ td {
+  text-align: center;
+  
+  padding: 8px;
+}
+
+tr:nth-child(even){background-color: #f2f2f2}
+button{
+	background-color:black; 
+}
